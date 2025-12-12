@@ -2,7 +2,7 @@ import  { useState } from "react";
 import Header from "./Header.jsx";
 import Search from "../search/Search.jsx";
 import InfoBox from "../WeatherInfo/InfoBox.jsx";
-import "./Weather.css";  
+import "./weather.css";  
 
 const DEFAULT_WEATHER = {
   city: "Delhi",
