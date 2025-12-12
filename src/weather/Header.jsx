@@ -1,5 +1,3 @@
-// Header.jsx
-
 import { Typography } from "@mui/material";
 import "./Header.css";
 

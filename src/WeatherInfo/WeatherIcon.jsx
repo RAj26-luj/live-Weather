@@ -1,4 +1,3 @@
-
 import OpacityIcon from "@mui/icons-material/Opacity";
 import CloudQueueIcon from "@mui/icons-material/CloudQueue";
 import ThermostatIcon from "@mui/icons-material/Thermostat";

@@ -1,5 +1,3 @@
-// HeaderInfo.jsx
-
 import { Box, Typography, Chip } from "@mui/material";
 
 export default function HeaderInfo({ info }) {

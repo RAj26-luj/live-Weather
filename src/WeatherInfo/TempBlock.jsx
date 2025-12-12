@@ -1,4 +1,3 @@
-
 import ThermostatIcon from "@mui/icons-material/Thermostat";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";

@@ -1,17 +1,7 @@
-// Stat.jsx
-import React from "react";
 import { Typography } from "@mui/material";
 import WaterDropIcon from "@mui/icons-material/WaterDrop";
 import CloudQueueIcon from "@mui/icons-material/CloudQueue";
 
-/**
- * Stat - small reusable stat block
- * props:
- *  - title: string
- *  - value: string
- *  - iconKey: "humidity" | "condition"
- *  - sub: optional string
- */
 export default function Stat({ title, value, iconKey, sub }) {
   const Icon = iconKey === "humidity" ? WaterDropIcon : CloudQueueIcon;
 

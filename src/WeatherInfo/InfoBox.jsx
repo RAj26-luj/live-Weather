@@ -1,9 +1,5 @@
-// InfoBox.jsx
-
 import { Card, CardContent, Box } from "@mui/material";
 import "./InfoBox.css";
-
-// InfoBox.jsx (top)
 import ImageHeader from "./ImageHeader.jsx";
 import HeaderInfo from "./HeaderInfo.jsx";
 import TempBlock from "./TempBlock.jsx";
