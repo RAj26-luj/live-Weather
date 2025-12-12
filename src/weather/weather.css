@@ -1,0 +1,17 @@
+.main {
+  min-height: 100vh;
+  padding: 24px;
+  background: linear-gradient(180deg, #0d0f14 0%, #111418 50%, #13161c 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  box-sizing: border-box;
+}
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
